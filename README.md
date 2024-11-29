@@ -1,0 +1,2 @@
+# grid-with-areas
+areas
